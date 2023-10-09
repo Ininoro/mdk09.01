@@ -1,0 +1,49 @@
+.container{
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.desc{
+    padding: 20px;
+    
+}
+
+.desc h1 {
+    font-size: 20px;
+}
+
+.desc_text{
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+.card{
+    margin-top: 60px;
+    background-color: #232323;
+    border-radius: 16px;
+    color: white;
+    width: 270px;
+}
+
+.rate_block{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    max-width: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rate_number{
+    width: 50px;
+    height: 25px;
+    border-radius: 8px;
+    background-color: #FFF965;
+    font-size: 14px;
+    border: none;
+}
+
+.card img{
+    width: 100%;
+}
